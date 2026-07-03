@@ -23,8 +23,8 @@ Features
 
 TECHNOLOGIES USED
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Netlify (Hosting & Deployment)
 
 SEO Features
